@@ -150,4 +150,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
-chest_xray/
+Datasets/
